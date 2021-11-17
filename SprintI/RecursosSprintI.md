@@ -2,6 +2,6 @@
 
 - Enlace al documento del proyecto:https://docs.google.com/document/d/1ynRH2BRzd5Q9olrTtRlNEqwfPpWCTbkk/edit
 
-- Enlace al diagrama de despliegue: Por colocar
+- Enlace al diagrama de despliegue: https://app.diagrams.net/#G1hZrX48Q_Raf3s6zhrsGQIaDFxZZDVCkO
 
-- Enlace al cronograma: Por colocar
+- Enlace al cronograma: https://docs.google.com/spreadsheets/d/17Jwp6tmRNJMd1K7X7MIgAk9mN3gmYHYS/edit?usp=sharing&ouid=118427037898100745046&rtpof=true&sd=true
